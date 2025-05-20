@@ -18,6 +18,12 @@ public class paiza2 {
 		
 		//演習1-5
 		System.out.println(5 % 3);
+		
+		//演習2-1
+		System.out.println("私の名前は、" + "霧島です。");
+		
+		//演習3-1
+		System.out.println((4 + 6) / 5);
 	}
 
 }
